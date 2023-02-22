@@ -1,7 +1,5 @@
 # Salesman Problem with Genetic Algorithms
 
-## ***(Alireza Tabatabaeian)***
-
 ### ***Introduction:***
 
 ***Genetic algorithms are a class of optimization algorithms inspired by the process of natural selection and genetics. They are based on the principles of survival of the fittest and evolution, and are used to find optimal solutions to complex problems that are difficult or impossible to solve using traditional methods.***
